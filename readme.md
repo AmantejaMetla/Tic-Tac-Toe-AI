@@ -9,6 +9,9 @@ This project is a Python-based Tic-Tac-Toe game that includes:
 ## Project Structure
 The project is organized into three main files:
 
+![image](https://github.com/user-attachments/assets/53cd339b-8363-4c94-a041-184c8bacac98)
+
+
 ### 1. `game_board.py`
 Handles board creation, display, and move validation.
 - **Purpose**: To keep all board-related functionalities in one place, ensuring reusability and separation of concerns.
@@ -82,6 +85,9 @@ Provides a graphical interface for the game, integrating player interaction and 
    ```
 4. Use the menu options to select difficulty and customize themes.
 5. Play against the AI by clicking on the grid.
+
+![image](https://github.com/user-attachments/assets/9931c7f7-6516-413e-a3b9-4ecd6e4f8e67)
+
 
 ## Future Improvements
 1. **Dynamic Board Sizes**:
